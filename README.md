@@ -21,3 +21,6 @@
 - Selenium
 - pytest
 - webdriver-manager
+
+### Запуск теста
+-v -s --html=report.html --self-contained-html
