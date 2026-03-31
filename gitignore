@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Selenium
+geckodriver.log
+chromedriver.log
+
+# Testing
+.pytest_cache/
+.vscode/
+htmlcov/
+.tox/
+.coverage
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
